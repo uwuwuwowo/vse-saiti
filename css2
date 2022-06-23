@@ -1,0 +1,13 @@
+body {
+    font-family: sans-serif;
+    background-image: linear-gradient(gold,purple,red);
+}
+ul{
+    color: black;
+}
+h1{
+    color: black;
+}
+footer{
+    color: lightblue;
+}
