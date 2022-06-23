@@ -1,0 +1,17 @@
+body {
+    font-family: sans-serif;
+    background-image: linear-gradient(white,lightblue);
+}
+p{
+    color:black;
+    text-align: center;
+}
+footer{
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+header{
+    text-align: center;
+}
